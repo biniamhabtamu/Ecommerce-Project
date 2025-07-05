@@ -37,9 +37,9 @@ my-app/
 │ └── index.js
 
 #📸 Screenshots Home Page
-https://github.com/user-attachments/assets/feb87797-692b-4922-9fa3-8881d852c045
-https://github.com/user-attachments/assets/608d8a8b-e689-46a5-a4f0-a86cd73858b3
-https://github.com/user-attachments/assets/b9d48ce7-c5fb-474a-8b86-90538b4a5913
+<img src="https://github.com/user-attachments/assets/feb87797-692b-4922-9fa3-8881d852c045"/>
+<img src="https://github.com/user-attachments/assets/608d8a8b-e689-46a5-a4f0-a86cd73858b3"/>
+<img src="https://github.com/user-attachments/assets/b9d48ce7-c5fb-474a-8b86-90538b4a5913"/>
 
 
 ## 🚀 Getting Started
