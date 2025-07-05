@@ -1,0 +1,35 @@
+.breadcrum {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 16px 24px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #444;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.crumb {
+  color: #555;
+  cursor: pointer;
+  transition: color 0.2s ease;
+  text-transform: capitalize;
+}
+
+.crumb:hover {
+  color: #e91e63;
+}
+
+.crumb.active {
+  font-weight: 700;
+  color: #000;
+}
+
+.arrow {
+  width: 14px;
+  height: 14px;
+  opacity: 0.6;
+}
