@@ -31,7 +31,7 @@ function ProductDisplay(props) {
 
     </div>
     <p className="productdisplay-description">
-          <strong>{Product.name}</strong> is a premium-quality item designed to enhance your lifestyle.
+          <strong>{product.name}</strong> is a premium-quality item designed to enhance your lifestyle.
           Enjoy comfort, durability, and timeless design all in one.
         </p>
 
