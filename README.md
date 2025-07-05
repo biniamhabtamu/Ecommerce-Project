@@ -21,6 +21,7 @@ A modern e-commerce web application built with **React.js**. This project includ
 ## 📂 Folder Structure
 my-app/
 ├── public/
+<br>
 ├── src/
 │ ├── Components/
 │ │ ├── Navbar/
