@@ -19,22 +19,22 @@ A modern e-commerce web application built with **React.js**. This project includ
 - 📁 Modular Component Structure
 
 ## 📂 Folder Structure
-my-app/
+my-app/<br>
 ├── public/
 <br>
-├── src/
-│ ├── Components/
-│ │ ├── Navbar/
-│ │ ├── Footer/
-│ │ ├── ProductDisplay.jsx
-│ │ ├── Breadcrum.jsx
-│ │ └── Assets/
-│ ├── Pages/
-│ │ ├── Shop.jsx
-│ │ ├── ShopCategory.jsx
-│ │ ├── Product.jsx
-│ │ └── LoginSignup.jsx
-│ ├── App.js
+├── src/<br>
+│ ├── Components/<br>
+│ │ ├── Navbar/<br>
+│ │ ├── Footer/<br>
+│ │ ├── ProductDisplay.jsx<br>
+│ │ ├── Breadcrum.jsx<br>
+│ │ └── Assets/<br>
+│ ├── Pages/<br>
+│ │ ├── Shop.jsx<br>
+│ │ ├── ShopCategory.jsx<br>
+│ │ ├── Product.jsx<br>
+│ │ └── LoginSignup.jsx<br>
+│ ├── App.js<br>
 │ └── index.js
 
 #📸 Screenshots Home Page
