@@ -1,0 +1,45 @@
+.descriptionbox {
+  width: 90%;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  line-height: 1.7;
+}
+
+.descriptionbox-navigator {
+  display: flex;
+  gap: 20px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.descriptionbox-nav-box {
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  background-color: #f5f5f5;
+  color: #555;
+}
+
+.descriptionbox-nav-box.active {
+  background-color: #4a90e2;
+  color: white;
+  box-shadow: 0 2px 8px rgba(74, 144, 226, 0.4);
+}
+
+.descriptionbox-nav-box.fade:hover {
+  background-color: #e0e0e0;
+}
+
+.descriptionbox-description p {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
